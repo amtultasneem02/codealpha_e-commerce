@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE/Editor config
+.idea/
+.vscode/
+.gemini/
+*.suo
+
+# System Files
+.DS_Store
+Thumbs.db
